@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-amlan",
+  "version": "0.0.1",
+  "description": "An eslint configuration module of my own liking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajorAchilles/eslint-config-amlan.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "airbnb"
+  ],
+  "author": "Amlanjyoti Saikia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MajorAchilles/eslint-config-amlan/issues"
+  },
+  "homepage": "https://github.com/MajorAchilles/eslint-config-amlan#readme",
+  "peerDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
